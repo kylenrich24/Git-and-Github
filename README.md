@@ -6,8 +6,9 @@
 <br>
 
 ## Installing
-<br>
-<br>
+
+- https://git-scm.com/download/win
+- click on <em>Use Git from Windows Command Prompt</em>
 
 ## Git and Github 
 
